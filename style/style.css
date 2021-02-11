@@ -76,8 +76,35 @@ b {
   margin-left: 18px;
 }
 
+.top-info {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  margin-bottom: 0;
+}
+.top-info a {
+  text-decoration: underline;
+}
+
+.top-mid {
+  width: 80%;
+}
+
+.top-img {
+  margin-bottom: 25px;
+}
+
+.top-box {
+  font-size: 18px;
+  color: #f2f2f2;
+  line-height: 1.5;
+  text-align: center;
+  width: 280px;
+}
+
 .container-title {
   width: max-content;
+  padding: 0;
 }
 .container-title h1 {
   margin-bottom: 50px;

@@ -73,8 +73,34 @@ b {
     margin-left: 18px;
   }
 }
+
+.top-info {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(255, 255, 255);
+  margin-bottom: 0;
+  a {
+    text-decoration: underline;
+  }
+}
+.top-mid {
+  width: 80%;
+}
+.top-img {
+  margin-bottom: 25px;
+}
+
+.top-box {
+  font-size: 18px;
+  color: rgb(242, 242, 242);
+  line-height: 1.5;
+  text-align: center;
+  width: 280px;
+}
+
 .container-title {
   width: max-content;
+  padding: 0;
   h1 {
     margin-bottom: 50px;
     font-size: 41px;
